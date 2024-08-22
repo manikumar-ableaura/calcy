@@ -11,19 +11,19 @@
         android:id="@+id/ss"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Created By Mani kumar S"
-       android:textSize="30sp"
+        android:text="Built by Mani kumar.S"
+        android:textSize="35sp"
         android:textStyle="bold"
         android:textColor="@color/teal_700"
         android:layout_centerInParent="true" />
 
 
     <ImageView
-        android:layout_width="30dp"
+        android:layout_width="35dp"
         android:layout_height="30dp"
         android:src="@android:drawable/btn_star_big_on"
         android:layout_marginRight="15dp"
-        android:background="@color/white"
+        android:background="#FFFFFF"
         android:layout_toLeftOf="@id/ss"
         android:layout_centerInParent="true"
         />
